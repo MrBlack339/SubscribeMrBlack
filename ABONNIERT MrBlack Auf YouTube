@@ -1,0 +1,64 @@
+
+# Bytekompilierte / optimierte / DLL-Dateien
+__pycache__ /
+* .py [ cod ]
+* $ py.class
+
+# C Erweiterungen
+* .so
+
+# Vertrieb / Verpackung
+.Python
+bauen /
+Eier entwickeln /
+dist /
+Downloads /
+Eier /
+.eggs /
+lib /
+lib64 /
+Teile /
+sdist /
+var /
+Räder /
+Pip-Wheel-Metadaten /
+teilen / Python-Räder /
+* .egg-info /
+.installed.cfg
+* .egg
+MANIFEST
+
+# PyInstaller
+#   Normalerweise werden diese Dateien von einem Python-Skript aus einer Vorlage geschrieben
+#   bevor PyInstaller die Exe erstellt, um Datums- / andere Infos einzufügen.
+* .manifest
+* .spec
+
+# Installationsprotokolle
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit Test / Coverage-Berichte
+htmlcov /
+.tox /
+.nox /
+.Bedeckung
+.Bedeckung. * *
+.Zwischenspeicher
+nosetests.xml
+Coverage.xml
+* .cover
+* .py, Abdeckung
+.hypothese /
+.pytest_cache /
+Abdeckung /
+
+# Übersetzungen
+* .mo
+* .pot
+
+# Django Zeug:
+* .log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
